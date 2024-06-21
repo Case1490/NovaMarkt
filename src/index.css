@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  scroll-behavior: smooth;
+}
+
+.active{
+  border-bottom: 2px solid black;
+}
+
+.dark .active {
+  border-bottom: 2px solid white;
+}
+
+.navbar, .tituloProductos{
+  font-family: "Playwrite PL", cursive;
+}
+
+.input_search{
+  border: 1px solid black;
+}
+
+.fondoPresentation{
+  background-image: url('./assets/fondo_maincenter.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+
+.borderWhite{
+  border: 2px solid white;
+}

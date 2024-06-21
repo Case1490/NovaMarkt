@@ -1,0 +1,9 @@
+[
+  { "name": "Apple", "image": "/public/images/impresora.webp" },
+  { "name": "Banana", "image": "/public/images/impresora.webp" },
+  { "name": "Orange", "image": "/public/images/impresora.webp" },
+  { "name": "Mango", "image": "/public/images/impresora.webp" },
+  { "name": "Pineapple", "image": "/public/images/impresora.webp" },
+  { "name": "Grapes", "image": "/public/images/impresora.webp" },
+  { "name": "Strawberry", "image": "/public/images/impresora.webp" }
+]
